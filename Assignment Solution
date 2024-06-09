@@ -1,0 +1,28 @@
+1. Software Engineering: Software Engineering is the systematic and efficient process of designing, building, testing, and maintaining software systems. 
+This process involves using engineering principles, structured methods, and tools to create reliable, efficient, and user-friendly software products.
+
+2. While Software Engineering is a disciplined approach to designing, creating, testing, and maintaining software by applying engineering principles, 
+encompassing a broader scope than traditional programming. It involves a systematic process, including planning, analyzing requirements, designing solutions, 
+testing, deploying, and maintaining software to ensure reliability, scalability, and user satisfaction. 
+
+Traditional programming is less structured but software engineering applies methodologies and tools to manage complexity and ensure quality.  
+
+Software Development Life Cycle (SDLC) is a structured process consisting of planning, analysis, design, implementation, testing, deployment, 
+and maintenance phases. This cycle ensures a systematic approach to software development, promoting efficiency, quality, and sustainability, 
+and differing from traditional programming in its focus on engineering principles and methodologies to meet specifications, ensure reliability, and meet user needs.
+
+3. The Software Development Life Cycle (SDLC) is a structured process for developing software, consisting of seven different phases:
+
+1. Planning: Define project scope, goals, timeline, and resources.
+2. Requirement Analysis: Gather and document software requirements from stakeholders.
+3. Design: Create a detailed design of the software architecture and user interface.
+4. Implementation (Coding): Write the code based on design documents.
+5. Testing: Verify and validate the software through various testing methods.
+6. Deployment: Release the software to production, configure, and provide user training.
+7. Maintenance: Monitor, update, and fix defects to ensure continued performance and reliability.
+
+Each phase has specific goals and deliverables, ensuring a systematic approach to software development, promoting efficiency, quality, and sustainability.
+Agile model embraces an iterative and incremental approach, breaking down projects into manageable sprints, adapting to changing requirements through collaborative 
+efforts and continuous improvement, prioritizing customer satisfaction, and delivering functional software in short cycles. 
+Waterfall Model follows a linear, sequential structure, completing each phase before progressing, relying on a rigid plan, and making changes challenging once the process begins, 
+delivering the final product in a single release, emphasizing thorough documentation, and focusing on predictability and stability, defining requirements at the outset.
