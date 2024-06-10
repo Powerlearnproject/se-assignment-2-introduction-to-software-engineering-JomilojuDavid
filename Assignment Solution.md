@@ -13,21 +13,22 @@ and differing from traditional programming in its focus on engineering principle
 
 4. The Software Development Life Cycle (SDLC) is a structured process for developing software, consisting of seven different phases:
 
-1. Planning: Define project scope, goals, timeline, and resources.
-2. Requirement Analysis: Gather and document software requirements from stakeholders.
-3. Design: Create a detailed design of the software architecture and user interface.
-4. Implementation (Coding): Write the code based on design documents.
-5. Testing: Verify and validate the software through various testing methods.
-6. Deployment: Release the software to production, configure, and provide user training.
-7. Maintenance: Monitor, update, and fix defects to ensure continued performance and reliability.
+   Planning: Define project scope, goals, timeline, and resources.
+   Requirement Analysis: Gather and document software requirements from stakeholders.
+   Design: Create a detailed design of the software architecture and user interface.
+   Implementation (Coding): Write the code based on design documents.
+   Testing: Verify and validate the software through various testing methods.
+   Deployment: Release the software to production, configure, and provide user training.
+   Maintenance: Monitor, update, and fix defects to ensure continued performance and reliability.
 
 5. Each phase has specific goals and deliverables, ensuring a systematic approach to software development, promoting efficiency, quality, and sustainability.
+
 Agile model embraces an iterative and incremental approach, breaking down projects into manageable sprints, adapting to changing requirements through collaborative 
 efforts and continuous improvement, prioritizing customer satisfaction, and delivering functional software in short cycles. 
 Waterfall Model follows a linear, sequential structure, completing each phase before progressing, relying on a rigid plan, and making changes challenging once the process begins, 
 delivering the final product in a single release, emphasizing thorough documentation, and focusing on predictability and stability, defining requirements at the outset.
 
-5. Waterfall Model
+Waterfall Model
 Characteristics: 
 Sequential Process: The Waterfall model follows a linear and sequential approach, with each phase depending on the deliverables of the previous one.
 Phases: Typically includes phases such as Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
