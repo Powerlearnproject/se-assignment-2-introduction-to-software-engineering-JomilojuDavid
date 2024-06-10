@@ -74,7 +74,8 @@ Dynamic Requirements: Projects where requirements are expected to change or are 
 Customer Involvement: Environments where customer feedback and collaboration are crucial for the project's success, such as in software product development.
 Innovative Projects: Projects involving new technologies or novel solutions where flexibility and rapid iteration are advantageous.
 
-6. Key Differences between waterfall model and Agile Model	
+6. Key Differences between waterfall model and Agile Model
+    
 a. Approach	
 Waterfall Model: Linear and sequential	
 Agile Model: Iterative and incremental
