@@ -159,12 +159,19 @@ leading to higher satisfaction with the final product.
 Software design principles are guidelines that help developers create software that is maintainable, scalable, and robust. Below are some fundamental principles:
 
 Single Responsibility Principle (SRP): A class or module should have only one reason to change, meaning it should have only one job or responsibility.
+
 Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification, allowing the behavior of a module to be extended without modifying its source code.
+
 Liskov Substitution Principle (LSP): Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+
 Interface Segregation Principle (ISP): Clients should not be forced to depend on interfaces they do not use. This encourages creating smaller, more specific interfaces.
+
 Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules. Both should depend on abstractions, and abstractions should not depend on details.
+
 DRY (Don't Repeat Yourself): Avoid code duplication by abstracting common functionality and reusing code where possible.
+
 KISS (Keep It Simple, Stupid): Design should be as simple as possible, avoiding unnecessary complexity.
+
 YAGNI (You Aren't Gonna Need It): Do not add functionality until it is necessary, to avoid overengineering.
 
 11. Modularity in Software Design
