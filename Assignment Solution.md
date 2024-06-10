@@ -157,6 +157,7 @@ leading to higher satisfaction with the final product.
 
 9. Software Design Principles
 Software design principles are guidelines that help developers create software that is maintainable, scalable, and robust. Below are some fundamental principles:
+
 Single Responsibility Principle (SRP): A class or module should have only one reason to change, meaning it should have only one job or responsibility.
 Open/Closed Principle (OCP): Software entities should be open for extension but closed for modification, allowing the behavior of a module to be extended without modifying its source code.
 Liskov Substitution Principle (LSP): Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
@@ -166,11 +167,11 @@ DRY (Don't Repeat Yourself): Avoid code duplication by abstracting common functi
 KISS (Keep It Simple, Stupid): Design should be as simple as possible, avoiding unnecessary complexity.
 YAGNI (You Aren't Gonna Need It): Do not add functionality until it is necessary, to avoid overengineering.
 
-10. Modularity in Software Design
+11. Modularity in Software Design
 Modularity refers to the design principle of breaking down a software system into smaller, self-contained units or modules. Each module encapsulates a specific piece of functionality and interacts 
 with other modules through well-defined interfaces. This approach promotes separation of concerns, where each module focuses on a particular aspect of the system's functionality.
 
-11. Benefits of Modularity in improving maintainability and enhanced scalability in software design
+12. Benefits of Modularity in improving maintainability and enhanced scalability in software design
 1. Improved Maintainability
 Isolation of Changes: Changes in one module are less likely to affect other modules, making it easier to manage and fix bugs.
 Simplified Debugging: Identifying and fixing issues is simpler because the source of a problem is confined to a smaller, isolated piece of code.
